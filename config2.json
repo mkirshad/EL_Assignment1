@@ -1,0 +1,12 @@
+{
+  "serviceAccountKey": "sk-erp-48d92fdfc506.json",
+  "gcsBucketName": "mki-assignment1",
+  "bqDatasetName": "mkiassignment2",
+  "DeleteDataset": false,
+  "folderList": [
+    {
+      "folderName": "data",
+      "active": true
+    }
+  ]
+}
